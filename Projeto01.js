@@ -15,27 +15,27 @@ console.log("Projeção de Ilusão, controle da mente e manipulação física");
 
 console.log();
 
-let pergunta1 = prompt("Em sua jornada, irá encontrar muitos perigos, estara preparado para passar por eles? ").toLowerCase();
+let pergunta1 = prompt("Em sua jornada, irá encontrar muitos perigos, o primeiro uma bela sereia em um lago, conseguiu se livrar dos encantos dela? ").toLowerCase();
 
 console.log();
 
-let pergunta2 = prompt("Continuará em busca do fruto mesmo que falte água ou comida? ").toLowerCase();
+let pergunta2 = prompt("Faltou água e comida, ira roubar de um senhor de idade camponês? ").toLowerCase();
 
 console.log();
 
-let pergunta3 = prompt("Arriscaria a vida de alguém que ama em troca do fruto mágico? ").toLowerCase();
+let pergunta3 = prompt("Uma voz mágica, fala para tirar a vida de sua amada para pegar tal fruto, você conseguira fazer? ").toLowerCase();
 
 console.log();
 
-let pergunta4 = prompt("Usará o fruto para bons propósitos? ").toLowerCase();
+let pergunta4 = prompt("Você conseguiu escapar da caverna cheia de feras selvagens? ").toLowerCase();
 
 console.log();
 
-let pergunta5 = prompt("Teria coragem de enfrentar feras místicas, para provar seu valor? ").toLowerCase();
+let pergunta5 = prompt("Seu último desafio, conseguiu pular de um penhasco e continuar vivo? ").toLowerCase();
 
 console.log();
 
-// Quantidade de sim's e nao's
+// Quantidade de sim's;
 // 0 - Você prefere ficar em casa, relaxando e curtindo um belo dia!
 // 1-2 - Você viu que os desafios eram enormes dmais, e desistiu logo após o início deles!
 // 3 - Estava a um passo de conseguir a tão sonhada maça do eden, mas quando chegou no lugar, outra pessoa ja tinha pegado ela!
